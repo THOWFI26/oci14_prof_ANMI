@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    text-align: center;
+    padding: 50px;
+}
+
+.weather-form input {
+    padding: 10px;
+    font-size: 16px;
+    width: 200px;
+}
+
+.weather-form button {
+    padding: 10px;
+    font-size: 16px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.weather-info {
+    margin-top: 20px;
+    display: none;
+}
+
+.weather-info p {
+    font-size: 18px;
+}
